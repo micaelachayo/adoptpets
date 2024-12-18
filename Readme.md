@@ -63,7 +63,7 @@ http://localhost:8080/api-docs
 ```
 
 ### Vista de Swagger
-![Swagger Screenshot](src/public/swagger.jpg)
+![Swagger Screenshot](src/public/assetes/swagger.jpg)
 
 ---
  
@@ -85,8 +85,8 @@ npm test
 
 ---
 
-![Potsman Screenshot](src/public/postman.jpg)
-![mongo Screenshot](src/public/mongoAtlas.jpg)
+![Potsman Screenshot](src/public/assets/postman.jpg)
+![mongo Screenshot](src/public/assets/mongoAtlas.jpg)
 ### ¡Gracias por utilizar AdoptMe!
 Si tienes dudas o sugerencias, no dudes en contactarme.
 ```
