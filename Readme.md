@@ -63,7 +63,7 @@ http://localhost:8080/api-docs
 ```
 
 ### Vista de Swagger
-![Swagger Screenshot](src/public/assetes/swagger.jpg)
+![Swagger Screenshot](/src/public/assetes/swagger.jpg)
 
 ---
  
