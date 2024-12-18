@@ -1,4 +1,3 @@
-```markdown
 # AdoptMe - Backend 3
 
 Este proyecto consiste en el desarrollo del backend para la aplicación de adopción de mascotas **"AdoptMe"**. Fue desarrollado como parte del curso **"Programación Backend III: Testing y Escalabilidad Backend"** de CODERHOUSE, en la comisión **70070**. La aplicación original ha sido ampliada para incorporar:
@@ -25,28 +24,24 @@ Puedes acceder a la imagen Docker desde el siguiente enlace:
 Sigue estos pasos para instalar y ejecutar el proyecto:
 
 1. **Clonar el repositorio**:
-   ```bash
-   git clone https://github.com/scerminati/AdoptMe1.git
-   ```
+   **bash**
+   `git clone https://github.com/scerminati/AdoptMe1.git`
 
 2. **Instalar dependencias**:
-   ```bash
-   npm install
-   ```
+   **bash**
+   `npm install`
 
 3. **Configurar variables de entorno**:
+
    - Crear un archivo `.env` en la raíz del proyecto.
    - Utilizar el archivo `.env.example` como referencia para configurar las variables necesarias.
 
 4. **Iniciar el servidor**:
    - **Modo Producción**:
-     ```bash
-     npm run dev
-     ```
+     `npm run dev`
+     `
    - **Modo Testeo**:
-     ```bash
-     npm test
-     ```
+     `npm test`
 
 ---
 
@@ -58,22 +53,13 @@ Este proyecto incluye una documentación interactiva para la API utilizando **Sw
 
 La documentación interactiva de Swagger está disponible en la siguiente URL (reemplazar con el puerto configurado en las variables de entorno):
 
-```
-http://localhost:8080/api-docs
-```
+`http://localhost:8080/api-docs`
 
 ### Vista de Swagger
-![Swagger Screenshot](/src/public/assetes/swagger.jpg)
+
+![Swagger Screenshot](src/public/assetes/swagger.jpg)
 
 ---
- 
-
-### Ejecución de Pruebas
-
-Para ejecutar las pruebas funcionales:
-```bash
-npm test
-```
 
 ### Pruebas Incluidas
 
@@ -87,7 +73,11 @@ npm test
 
 ![Potsman Screenshot](src/public/assets/postman.jpg)
 ![mongo Screenshot](src/public/assets/mongoAtlas.jpg)
+
 ### ¡Gracias por utilizar AdoptMe!
+
 Si tienes dudas o sugerencias, no dudes en contactarme.
+
 ```
 
+```

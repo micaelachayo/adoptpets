@@ -15,7 +15,7 @@ dotenv.config();
 const app =express();
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
-
+app.use(express.static("public"));
 
 app.use('/api/users',usersRouter);
 app.use('/api/pets',petsRouter);
