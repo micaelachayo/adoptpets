@@ -57,7 +57,7 @@ La documentación interactiva de Swagger está disponible en la siguiente URL (r
 
 ### Vista de Swagger
 
-![Swagger Screenshot](src/public/assetes/swagger.jpg)
+![Swagger Screenshot](src/assetes/swagger.jpg)
 
 ---
 
@@ -71,8 +71,7 @@ La documentación interactiva de Swagger está disponible en la siguiente URL (r
 
 ---
 
-![Potsman Screenshot](src/public/assets/postman.jpg)
-![mongo Screenshot](src/public/assets/mongoAtlas.jpg)
+! [mongo Screenshot](src/assets/mongo_atlas.jpg)
 
 ### ¡Gracias por utilizar AdoptMe!
 
