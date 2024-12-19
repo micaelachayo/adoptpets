@@ -25,7 +25,7 @@ Sigue estos pasos para instalar y ejecutar el proyecto:
 
 1. **Clonar el repositorio**:
    **bash**
-   `git clone https://github.com/scerminati/AdoptMe1.git`
+   `https://github.com/micaelachayo/adoptpets.git`
 
 2. **Instalar dependencias**:
    **bash**
@@ -42,6 +42,16 @@ Sigue estos pasos para instalar y ejecutar el proyecto:
      `
    - **Modo Testeo**:
      `npm test`
+![test](https://raw.githubusercontent.com/micaelachayo/adoptpets/main/src/assets/testing.jpg)
+---
+
+### Pruebas Incluidas
+
+**Router: adoption.router.js**
+
+- **GET /api/adoptions**: Devuelve todas las adopciones.
+- **GET /api/adoptions/{aid}**: Devuelve una adopción específica.
+- **POST /api/adoptions/{uid}/{pid}**: Crea una adopción.
 
 ---
 
@@ -61,23 +71,3 @@ La documentación interactiva de Swagger está disponible en la siguiente URL (r
 
 
 ---
-
-### Pruebas Incluidas
-
-**Router: adoption.router.js**
-
-- **GET /api/adoptions**: Devuelve todas las adopciones.
-- **GET /api/adoptions/{aid}**: Devuelve una adopción específica.
-- **POST /api/adoptions/{uid}/{pid}**: Crea una adopción.
-
----
-
-! [mongo Screenshot](src/assets/mongo_atlas.jpg) ```
-
-### ¡Gracias por utilizar AdoptMe!
-
-Si tienes dudas o sugerencias, no dudes en contactarme.
-
-```
-
-```
