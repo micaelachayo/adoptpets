@@ -57,7 +57,7 @@ La documentación interactiva de Swagger está disponible en la siguiente URL (r
 
 ### Vista de Swagger
 
-![Swagger](https://raw.githubusercontent.com/scerminati/AdoptMe1/main/src/assets/swagger.jpg)
+![Swagger](https://raw.githubusercontent.com/micaelachayo/adoptpets/main/src/assets/swagger.jpg)
 
 
 ---
